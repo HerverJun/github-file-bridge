@@ -2,6 +2,14 @@
 
 用公开 GitHub 仓库在外网与能访问 GitHub 的内网电脑之间中转文件。内网下载不需要登录。
 
+## Clear 完整离线包（含模型）
+
+[打开 Clear Windows x64 离线包下载页](https://github.com/HerverJun/github-file-bridge/releases/tag/clear-offline-20261029-5c83e5f)
+
+大型离线包通过 **Releases 附件**分发。下载页列出了全部 1 GiB 分卷；同时下载 `Clear-restore-tools.zip`，用 Windows 自带功能解开工具 ZIP，把所有分卷放入同一文件夹，双击 `Verify-And-Extract.cmd` 校验并选择空目录解压。无需登录、Git、Python 或 Xet 客户端。
+
+**Code → Download ZIP 和 Release 自动生成的 Source code.zip 都不包含这些离线包附件。** 请使用上面的下载页。
+
 ## 网页上传与下载
 
 1. 在外网电脑打开本仓库，进入 `files` 目录。
@@ -30,6 +38,6 @@ git push
 
 - 仓库为公开，任何人均可查看和下载文件及提交历史；上传仍需要账号写入权限。只中转允许公开的资料，账号密码、令牌等不要放入仓库。
 - 文件实际下载可能跳转到 `raw.githubusercontent.com`、`codeload.github.com` 等域名。应先用一个小文件在内网试传、试下载，确认网络允许；能打开 github.com 不一定能下载全部文件。
-- 暂不使用 Git LFS、Release 附件或外部图床，以减少额外域名和流量配额依赖。
+- 大型软件离线包使用 Releases 附件，普通小文件继续放在 `files`。Release 附件下载还可能跳转到 `release-assets.githubusercontent.com`，需在目标内网验证实际下载连通性。
 - 删除文件后旧内容仍可能存在于 Git 历史，仓库不会因此立即变小。它适合临时中转，不适合作为无限容量网盘；长期堆积会让克隆和下载越来越慢。
 - 本机使用时请把克隆、下载和临时文件放在 F 盘的项目目录中。

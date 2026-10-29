@@ -1,0 +1,183 @@
+{
+  "format": "clear-offline-transfer-v1",
+  "release_tag": "clear-offline-20261029-5c83e5f",
+  "created_utc": "2026-10-29T03:12:55.065678+00:00",
+  "archive_first_volume": "Clear-offline-win-x64.7z.001",
+  "archive_root": "Clear 离线版",
+  "compressed_bytes": 32333236979,
+  "source": {
+    "commit": "5c83e5f93bdcca692d2d341930af27be198624ae",
+    "package_manifest_sha256": "682bdda143ee87a0915a729a1bc83874a8db3c4de938f7ba5fd4fdc10514e55f",
+    "declared_files": 163879,
+    "declared_bytes": 46639851747
+  },
+  "volumes": [
+    {
+      "name": "Clear-offline-win-x64.7z.001",
+      "bytes": 1073741824,
+      "sha256": "2db3ed83f1a2a756167cb4eb8a2de631c27fc4aeb53c0cedd4c9a01caea9f1c2"
+    },
+    {
+      "name": "Clear-offline-win-x64.7z.002",
+      "bytes": 1073741824,
+      "sha256": "684d57f50596a5bdaa7f93e620d607f9ce6863a643a2b77ef3cfec3d4bb36dd7"
+    },
+    {
+      "name": "Clear-offline-win-x64.7z.003",
+      "bytes": 1073741824,
+      "sha256": "20da406f160486721f60680fe2fe878c23eee4e0726c35f07d1db37c70657263"
+    },
+    {
+      "name": "Clear-offline-win-x64.7z.004",
+      "bytes": 1073741824,
+      "sha256": "dc4004ae33af59c684818a45a0cf0a66a235793962a389bd91c07914e1ed5562"
+    },
+    {
+      "name": "Clear-offline-win-x64.7z.005",
+      "bytes": 1073741824,
+      "sha256": "dea6252a037d2910b4ec7931e45f07b8b80167c617f5e489361d97ca5ed6d139"
+    },
+    {
+      "name": "Clear-offline-win-x64.7z.006",
+      "bytes": 1073741824,
+      "sha256": "ac109abd9882ca0f4a90f016082c68257dc8f9d1076d4cf7ed82d056a57efa94"
+    },
+    {
+      "name": "Clear-offline-win-x64.7z.007",
+      "bytes": 1073741824,
+      "sha256": "7b1884899d6b3559da1b32cfd9e24991385a0774995e81352ed096e0b331e1db"
+    },
+    {
+      "name": "Clear-offline-win-x64.7z.008",
+      "bytes": 1073741824,
+      "sha256": "b4e5d8dc3d3537717aaa352213f28abea00b98c296c2bb2ac25bb9040d70c1bc"
+    },
+    {
+      "name": "Clear-offline-win-x64.7z.009",
+      "bytes": 1073741824,
+      "sha256": "916f026ea9b97b10a24ca75a742b7d2130cc4629f400cccc8b2f5d1628b25388"
+    },
+    {
+      "name": "Clear-offline-win-x64.7z.010",
+      "bytes": 1073741824,
+      "sha256": "782dee2cb6278febe3c76f01a1a5885d24b4aebf89150b16a6758fab36aef7ef"
+    },
+    {
+      "name": "Clear-offline-win-x64.7z.011",
+      "bytes": 1073741824,
+      "sha256": "98c5c91b65a5e410f81cd92915dbf4b5cb6a03a8766689e4274446103008c999"
+    },
+    {
+      "name": "Clear-offline-win-x64.7z.012",
+      "bytes": 1073741824,
+      "sha256": "2099ccfc50403ef62561a1ddca3d7ee6b92ac840a7dea1c0e1b2e4049a1b6724"
+    },
+    {
+      "name": "Clear-offline-win-x64.7z.013",
+      "bytes": 1073741824,
+      "sha256": "f461d7efd7ded6fb8ec5437563bb9c33090d1d7abdc0e9492ca6322fc27d7bf7"
+    },
+    {
+      "name": "Clear-offline-win-x64.7z.014",
+      "bytes": 1073741824,
+      "sha256": "d1970a1d62e515ccccd9caeba62a61c5789103145b6512601498076283617b67"
+    },
+    {
+      "name": "Clear-offline-win-x64.7z.015",
+      "bytes": 1073741824,
+      "sha256": "433bf117da75264a7a948886ac435ea4038c289942ba97af53ce81dec09fa6fc"
+    },
+    {
+      "name": "Clear-offline-win-x64.7z.016",
+      "bytes": 1073741824,
+      "sha256": "08f60d3b299f6df9c7e78686061620c6d68195da378a4b5a5b428b6f745fba9a"
+    },
+    {
+      "name": "Clear-offline-win-x64.7z.017",
+      "bytes": 1073741824,
+      "sha256": "bacadcc877c1773103b8a8d3d96d21e454fbbf4370129b5ad1a6c755ddf0caff"
+    },
+    {
+      "name": "Clear-offline-win-x64.7z.018",
+      "bytes": 1073741824,
+      "sha256": "1facb54144ffd51e4279da9fb823e8d530b67bac1b2b4bc1bcf9d03f2da7f280"
+    },
+    {
+      "name": "Clear-offline-win-x64.7z.019",
+      "bytes": 1073741824,
+      "sha256": "fccba2c55352c43336b625c63f410d8082ad82c53f5b82af0fb5afa09f414016"
+    },
+    {
+      "name": "Clear-offline-win-x64.7z.020",
+      "bytes": 1073741824,
+      "sha256": "396768f35d42182efe521c31050f85810581332976ed1ea4e2011092b1ba0092"
+    },
+    {
+      "name": "Clear-offline-win-x64.7z.021",
+      "bytes": 1073741824,
+      "sha256": "b59aa940ee32f0b0613da8b60591208fba86acc3a0d6894d3a0d58c66550e0c6"
+    },
+    {
+      "name": "Clear-offline-win-x64.7z.022",
+      "bytes": 1073741824,
+      "sha256": "b3b847793617f9fb7bd916cc1f405f28290cc0a81d230bd92573b6042c6fa3ef"
+    },
+    {
+      "name": "Clear-offline-win-x64.7z.023",
+      "bytes": 1073741824,
+      "sha256": "9e63e968971b49678acf7944a2fdb2aac35a9cccb07bf88a33a3b040d1f765bf"
+    },
+    {
+      "name": "Clear-offline-win-x64.7z.024",
+      "bytes": 1073741824,
+      "sha256": "bf4dcd09c519279ea59e9cac56147b8fc76e5a067ed54c2a5fed86a1961eaf3f"
+    },
+    {
+      "name": "Clear-offline-win-x64.7z.025",
+      "bytes": 1073741824,
+      "sha256": "7fa5e04ed3bd3ff8fb7750f966dd1b2622bc86f28925bfc6813fcf44aeccabed"
+    },
+    {
+      "name": "Clear-offline-win-x64.7z.026",
+      "bytes": 1073741824,
+      "sha256": "f3d9d648d62b00cd7010b3c0fd0f18dc88724c0876b94a105cadbea91cf21e47"
+    },
+    {
+      "name": "Clear-offline-win-x64.7z.027",
+      "bytes": 1073741824,
+      "sha256": "7f0f3a6049025913ba7fc7f39c16e29e0d6d58a4a50922144742bfa432750a8e"
+    },
+    {
+      "name": "Clear-offline-win-x64.7z.028",
+      "bytes": 1073741824,
+      "sha256": "61c55e38a1161dbf2c17bd45082426008a641c1a6025b73c6aa2c35a4f2dc361"
+    },
+    {
+      "name": "Clear-offline-win-x64.7z.029",
+      "bytes": 1073741824,
+      "sha256": "4366351dc6e2e657f2144199c32d2380f2dfda17eb729fa251be98ff4638f871"
+    },
+    {
+      "name": "Clear-offline-win-x64.7z.030",
+      "bytes": 1073741824,
+      "sha256": "80ee668d6464e7c100fe00dcbf0941e708533333c7a1c83fedd7a673bcc2047c"
+    },
+    {
+      "name": "Clear-offline-win-x64.7z.031",
+      "bytes": 120982259,
+      "sha256": "70487159e89e2c6a8d5a9af4bbf32cd640a31ba07e527eb161f44383c2a379ed"
+    }
+  ],
+  "extractor": {
+    "name": "7z.exe",
+    "bytes": 575488,
+    "sha256": "4a41aa37786c7eae7451e81c2c97458d5d1ae5a3a8154637a0d5f77adc05e619",
+    "dependencies": [
+      {
+        "name": "7z.dll",
+        "bytes": 1908736,
+        "sha256": "bbd705e3b58ca7677c1e9e67473f166a6712da034dcb567d571fbb67507a443f"
+      }
+    ]
+  }
+}
